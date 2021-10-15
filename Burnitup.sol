@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.2;
 
-import "https://github.com/panacompu/Burn-it-up/blob/main/BEP20Token.sol";
+import "http://github.com/panacompu/Burn-it-up/blob/main/BEP20Token.sol";
 
 contract CustomToken is  BEP20Token {
 
