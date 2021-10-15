@@ -1,9 +1,9 @@
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.2;
 
-import "https://github.com/panacompu/Burn-it-up/blob/main/IBEP20.sol";
-import "https://github.com/panacompu/Burn-it-up/blob/main/Context.sol";
-import "https://github.com/panacompu/Burn-it-up/blob/main/Ownable.sol";
+import "http://github.com/panacompu/Burn-it-up/blob/main/IBEP20.sol";
+import "http://github.com/panacompu/Burn-it-up/blob/main/Context.sol";
+import "http://github.com/panacompu/Burn-it-up/blob/main/Ownable.sol";
 
 contract BEP20Token is Context, IBEP20, Ownable {
  
