@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.2;
 
-import "https://github.com/iquecode/BEP20_Token/blob/main/lib/Context.sol";
+import "https://github.com/panacompu/Burn-it-up/blob/main/Context.sol";
 
 /**
  * @dev Contract module which provides a basic access control mechanism, where
